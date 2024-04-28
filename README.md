@@ -1,1 +1,3 @@
-# CrystalVoyager
+# Crystal Voyager
+
+![](docs/CrystalVoyager.jpeg)
